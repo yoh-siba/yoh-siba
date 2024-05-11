@@ -1,4 +1,4 @@
-### Hi there 👋
+# Yoh-lab
 
 <!--
 **Yoh-lab/Yoh-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=yoh-lab&count_private=true&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoh-lab&layout=compact&theme=dracula)
+
+
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoh-lab)](https://github.com/anuraghazra/github-readme-stats)
