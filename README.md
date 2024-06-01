@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yoh-lab&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoh-lab&layout=compact&theme=dracula)
+
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats-self-theta-45.vercel.app/api?username=yoh-lab&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats-self-theta-45.vercel.app/api/top-langs/?username=yoh-lab&count_private=true&layout=compact&theme=dracula" />
+</a>
