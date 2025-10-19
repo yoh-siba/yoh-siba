@@ -1,7 +1,7 @@
-# Yoh-lab
+# yoh-siba
 
 <!--
-**Yoh-lab/Yoh-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yoh-siba/yoh-siba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats-self-theta-45.vercel.app/api?username=yoh-lab&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats-self-theta-45.vercel.app/api?username=yoh-siba&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats-self-theta-45.vercel.app/api/top-langs/?username=yoh-lab&count_private=true&layout=compact&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats-self-theta-45.vercel.app/api/top-langs/?username=yoh-siba&count_private=true&layout=compact&theme=dracula" />
 </a>
